@@ -1,0 +1,273 @@
+body
+{
+	margin:0;
+	padding:0;
+	
+}
+
+#background
+{
+	position : fixed;
+	top :0;
+	left : 0;
+	z-index : -1;
+	width : 100%;
+}
+
+#retour
+{
+	background-color :  white;
+	width : 4%;
+	position : relative;
+	height : 20px;
+	border-width:3px;
+	border-style:solid;
+    border-color:  black;
+	border-radius : 10px;
+
+}
+
+#retour a
+{
+	position : relative;
+	color : black;
+	left : 9px;
+	font-family:Arial;
+	font-size: 14px;
+	
+}
+
+#titre
+{
+	position : relative;
+	display : block;
+    margin : auto;
+	background-image : url("http://www.detourage.com/fonds-gris-gratuit-libre-de-droits/fonds-gris-gratuit-libre-de-droits/fonds_gris_detourercom_008_neon.jpg");
+	border-width:4px;
+	border-style:solid;
+    border-color:  white;
+	border-radius : 30px;
+	width : 35%;
+}
+
+#titre h1
+{ 
+  position : relative;
+  font-size : 20px;
+  text-align: center;
+  color : white;
+  font-family : Arial Black;
+}
+
+
+
+section
+{
+	position : relative;
+	background-image : url("https://colox.ch/wp-content/uploads/2018/05/fond-light-degrade-gris-1678px.jpg");
+	display : block;
+    margin : auto;
+	width : 70%;
+	top : 70px;
+	border-radius : 10px;
+	border-width:4px;
+	border-style:solid;
+    border-color:  black;
+	box-shadow:0px 0px 10px black;
+	
+}
+
+section h2
+{
+	position : relative;
+	text-align: center;
+	font-family : arial black;
+	color : black;
+}
+
+section p
+{
+	position : relative;
+	text-align: center;
+	font-family : Arial;
+	font-size : 17px;
+	bottom : 15px;
+}
+
+nav
+{
+	position : relative;
+	width : 85%;
+	top : 140px;
+	background-image : url("http://www.detourage.com/fonds-gris-gratuit-libre-de-droits/fonds-gris-gratuit-libre-de-droits/fonds_gris_detourercom_008_neon.jpg");
+	border-width:4px;
+	border-style:solid;
+    border-color: black;
+	box-shadow:0px 0px 10px black;
+    display : block;
+    margin : auto;
+}
+
+
+
+#ent1
+{
+	position : relative;
+	left : 2%;
+	background-image : url("https://colox.ch/wp-content/uploads/2018/05/fond-light-degrade-gris-1678px.jpg");
+	width : 43%;
+    box-shadow:0px 0px 10px black;
+	border-width:4px;
+	border-style:solid;
+    border-color: black;
+	
+}   
+
+#ent2
+{
+	position : absolute;
+	left : 55%;
+	background-image : url("https://colox.ch/wp-content/uploads/2018/05/fond-light-degrade-gris-1678px.jpg");
+	width : 43%;
+	bottom : 20%;
+    box-shadow:0px 0px 10px black;
+	border-width:4px;
+	border-style:solid;
+    border-color: black;
+}  
+
+#outil
+{
+	position : fixed;
+	z-index : -1;
+	left : 42%;
+   
+}
+
+#outil img
+{
+	position : relative;
+	width : 90%;
+	bottom : 40px;
+	border-radius : 300px;
+	border-width:3px;
+	border-style:solid;
+    border-color:  black;
+}
+
+#outil2
+{
+	position : fixed;
+	z-index : -1;
+	left : 5%;
+   
+}
+
+#outil2 img
+{
+	position : relative;
+	width : 90%;
+	top: 30px;
+	border-radius :100%;
+	border-width:3px;
+	border-style:solid;
+    border-color:  #2F956B;
+}
+
+#outil3
+{
+	position : fixed;
+	z-index : -1;
+	left : 80%;
+   
+}
+
+#outil3 img
+{
+	position : relative;
+	width : 90%;
+	top: 30px;
+	border-radius : 100%;
+	border-width:3px;
+	border-style:solid;
+    border-color:  #2F956B;
+}
+
+nav h2
+{ 
+  position : relative;
+  text-align: center;
+  color : #630808;
+}
+
+
+
+footer
+{
+	position : relative;
+	display : block;
+    margin : auto;
+	background-image : url("https://colox.ch/wp-content/uploads/2018/05/fond-light-degrade-gris-1678px.jpg");
+	width : 40%;
+	top : 190px;
+	text-align: center;
+	border-radius : 30px;
+	border-width:1px;
+	border-style:solid;
+    border-color: black;
+	box-shadow:0px 0px 10px black;
+}
+
+footer h2
+{
+	color : #630808;
+	font-family : Arial;
+}
+
+footer p
+{
+	font-family : Verdana, Geneva, sans-serif;
+}
+
+#ent1 img
+{
+	position : relative;
+    width : 100%;
+	border-width:1px;
+	border-style:solid;
+    border-color: black;
+}
+
+#ent2 img
+{
+	position : relative;
+    width : 95%;
+	border-width:1px;
+	border-style:solid;
+    border-color: black;
+	left : 12px;
+}
+
+#ent2 p
+{ 
+   position : relative;
+   left : 1%;
+}
+
+#ent1 p
+{
+	position : relative;
+	text-align: center;
+}
+
+#swot
+{
+	position : relative;
+	bottom : 5px;
+}
+
+#ana1
+{
+	position : relative;
+	bottom : 5px;
+}
